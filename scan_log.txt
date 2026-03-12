@@ -1,0 +1,15 @@
+support@amaz0n-security.com -> 0
+support@amaz0n-security.com -> 0
+support@amaz0n-security.com -> 1
+click here to verify account http://fake-bank-login.com -> 1
+click here to verify account http://fake-bank-login.com -> 1
+http://fake-bank-login.com -> 0
+http://fake-bank-login.com -> 0
+http://fake-bank-login.com -> 1 -> MEDIUM
+team meeting tomorrow at 10am -> 0 -> LOW
+team meeting tomorrow at 10am -> 0 -> LOW
+verify your bank account immediately -> 1 -> MEDIUM
+click here to verify your account http://fake-bank-login.com -> 1 -> MEDIUM
+abc123@gmail.com -> 0 -> MEDIUM
+hrexynos@gmail.com -> 0 -> MEDIUM
+support.career@gmail.com -> 0 -> MEDIUM
